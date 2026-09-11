@@ -1,24 +1,49 @@
-Laboratorio II - Hooks
+<div align="center">
 
+# 📐 CÁLCULO DE ÁREAS
 
+## FIGURAS GEOMÉTRICAS
 
+### 💻 Proyecto desarrollado en React
 
-Estudiante:
-Cristian Camilo Toro Vasquez
+---
 
+🔺 **Triángulo** &nbsp;&nbsp;&nbsp;
+▭ **Rectángulo** &nbsp;&nbsp;&nbsp;
+◼️ **Cuadrado**
 
+---
 
-Docente:
-Hugo Armando Urrego Moreno
+### 👨‍🎓 Estudiante
 
+**Cristian Camilo Toro Vasquez**
 
+### 👨‍🏫 Docente
 
+**Hugo Armando Urrego Moreno**
 
+---
 
+### 🎓 Universidad Libre
 
-Universidad Libre
-Facultad de Ingeniería
-Ingeniería de Sistemas
-Programación Lineal
-7 semestre
-2026-2
+**Facultad de Ingeniería**  
+**Ingeniería de Sistemas**  
+**Programación Lineal**  
+**7.º Semestre**
+
+### 📅 2026-2
+
+---
+
+### 🛠️ Tecnologías utilizadas
+
+**React · JSX · JavaScript · CSS · Hooks**
+
+---
+
+### 📊 Descripción
+
+Aplicación web desarrollada en React para calcular  
+el área del triángulo, rectángulo y cuadrado.
+
+</div>
